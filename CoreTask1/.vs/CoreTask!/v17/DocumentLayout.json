@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|c:\\users\\orange\\source\\repos\\coretask!\\coretask!\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CABC85-430B-4433-BA7A-A265D7BFEF7E}|CoreTask!\\CoreTask!.csproj|solutionrelative:coretask!\\models\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CoreTask!\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T04:54:47.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Program.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Program.cs",
+              "RelativeToolTip": "CoreTask!\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:59:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "CoreTask!\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA2wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:08:49.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreTask!\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\appsettings.json",
+              "RelativeToolTip": "CoreTask!\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T00:06:09.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\Product.cs",
+              "RelativeToolTip": "CoreTask!\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:34:17.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\Category.cs",
+              "RelativeToolTip": "CoreTask!\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:33:44.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ECommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\ECommerceContext.cs",
+              "RelativeDocumentMoniker": "CoreTask!\\Models\\ECommerceContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\CoreTask!\\CoreTask!\\Models\\ECommerceContext.cs",
+              "RelativeToolTip": "CoreTask!\\Models\\ECommerceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:57:49.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
