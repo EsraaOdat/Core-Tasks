@@ -43,11 +43,6 @@ namespace core11.Controllers
             _db.SaveChanges();
             return Ok(data);
         }
-        //[HttpGet("{id}/{price}")]
-        //public IActionResult Product(int id ,string price)
-        //{
-        //    var data = _db.Products.Where(p=> p.CategoryId == id && string.Compare(p.Price ,price)>0).Count();
-        //    return Ok(data);
-        //}
+      }
     }
 }
